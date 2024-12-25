@@ -52,7 +52,7 @@
 
 # 8. Why is eggs a valid variable name while 100 is invalid?
     # egg is a string and satisfies the requirements for a variable name
-    # 
+    # a variable name cannot be a number
 
 # 9. What three functions can be used to get the integer, 
 # floating-point number, or string version of a value?
